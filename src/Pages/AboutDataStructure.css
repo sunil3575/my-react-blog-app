@@ -1,0 +1,12 @@
+.structure_card{
+    margin-top: 50px !important;
+    margin-bottom:50px !important;
+}
+@media (min-width:320px) and (max-width:768px) {
+    .paragraph{
+        font-size: small !important;
+    }
+    .heading{
+        font-size:large !important;
+    }
+}

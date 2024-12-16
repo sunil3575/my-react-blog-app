@@ -1,0 +1,28 @@
+
+
+.navbar_form{
+    margin-right: 80px !important;
+}
+.navbar_image{
+    margin-left: 100px !important;
+}
+
+
+
+
+
+
+
+
+
+@media  (min-width:320px) and (max-width:768px) {
+    .navbar-toggler-icon{
+        font-size: small !important;
+        border:2px solid white;
+        
+    }
+  
+    
+   
+    
+}
